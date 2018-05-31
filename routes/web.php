@@ -14,11 +14,10 @@
 Route::name('index_path')->get('/', 'HomeController@home');
 Route::name('realisation_path')->get('/realisation', 'RealisationController@realisation');
 
-
-
 Route::post('users', 'UsersController@postUsers');
 
 Route::post('/saveVisiteurs',['uses'=>'visiteursController@save','as'=>'saveUtilisateurs']);
+
 
 
 

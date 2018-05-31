@@ -8,6 +8,7 @@
 								</div>
 								@if(session('success')) 
 								{{-- ====================================================================================== --}}
+								
 									<div class="alert alert-success"> 
 										<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button> 
 										{{ session('success') }} 
@@ -37,6 +38,7 @@
 								<div class="col-md-6 col-md-offset-1 contact-form">
 									<h3>laissez-nous un message</h3>
 
+
 									<form method="POST" action="{{ route('saveUtilisateurs') }}" class="form">
 										{{csrf_field()}}
 								<input  name="nom" type="text" placeholder="Nom" required>
@@ -45,6 +47,7 @@
 								<textarea  name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea required>
 								<input class="submit-btn" type="submit" value="Envoyer">
 									</form>
+					
 								</div>
 
 <div id="customPopup">

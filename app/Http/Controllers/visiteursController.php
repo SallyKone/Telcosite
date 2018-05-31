@@ -6,7 +6,6 @@ namespace App\Http\Controllers;
 use App\visiteurs;
 //use DB;
 
-
 class visiteursController extends Controller
 {
 
@@ -18,10 +17,6 @@ class visiteursController extends Controller
 		$visiteurs->MessageVisiteurs = $request->message;
         //dd($visiteurs);
         $visiteurs->save();
-        //return"insertion successful";
-
-		//$req = DB::SELECT("SELECT * FROM visiteurs ");
-		//dd($req);
 
 		if($visiteurs->save()){
 			return redirect()->back()->withSuccess("Votre message a été soumis avec succès");

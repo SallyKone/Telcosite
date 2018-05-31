@@ -8,20 +8,45 @@
 	<link rel="stylesheet" href="{{URL::asset('css/style.css')}}">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:600italic,400,800,700,300' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=BenchNine:300,400,700' rel='stylesheet' type='text/css'>
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJzgyR3Un04ndSCrm3Ac1goqPxd5U_HQw&callback=initMap" type="text/javascript"></script>
 </head>
 
 <body>
-
 	
 @include('partials._menu')
 @yield('content')
 
-
-
 <!-- script tags
 	============================================================= -->
 	<script src="{{URL::asset('js/jquery-2.1.1.js')}}"></script>
-	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<!-- <script src="http://maps.google.com/maps/api/js?sensor=true"></script> -->
+	<script>
+	
+			function initMap() {
+			
+			//ICI uluru represente le point ou sera placer le markeur sur la carte google maps , elle sera aussi centrer a cet endroit sur la carte.
+			//La variable "lat" represente la latitude sur le globe et "lng" la longitude
+			var uluru = {lat: 5.378038, lng: -3.968965};
+			
+			//Tu remarqueras bien que le string passé a la fonction getElementById() est l'id qu'on a definit en haut.
+			var map = new google.maps.Map(document.getElementById('conteneur'), {
+			  zoom: 16,//la valeur de "zoom" represente le zoom qu'aura la google maps sur globe.
+			  center: uluru //Tu specifie ici a Google maps que tu veux que ta carte soit centrer a cettre position lors de l'initialisation
+			});
+			
+			
+			//C'est avec ce objet que tu pourra crée un marqueur sur la carte google maps.
+			var marker = new google.maps.Marker({
+			  position: uluru,//position du marqueur sur la carte
+			  map: map,//l'objet google maps
+			  // icon : "https://image.ibb.co/h3f688/position.png"//l'icon du markeur , l'icon doit être sur internet a une url donné.
+			});
+		  }
+		  
+		  initMap(); 
+	
+	</script>
+	
 	<script src="{{URL::asset('js/gmaps.js')}}"></script>
 	<script src="{{URL::asset('js/smoothscroll.js')}}"></script>
 	<script src="{{URL::asset('js/bootstrap.min.js')}}"></script>
@@ -35,76 +60,7 @@
 					<div class="row">
 				
 						 <h2>Nos clients</h2>
-	<!--
-				<marquee DIRECTION="right">
-						<div class="col-md-2 col-sm-6">
-							<div class="single-client">
-								<div class="single-client-img">
-									<div class="client-img">
-										<img class="img-responsive" src="img/service1.png" alt="">
-									</div>
-								</div>
-								
-							</div>
-							<h3></h3>
-						</div>
-
-						<div class="col-md-2 col-sm-6">
-							<div class="single-client">
-								<div class="single-client-img-img">
-									<div class="client-img">
-										<img class="img-responsive" src="img/service2.png" alt="">
-									</div>
-								</div>
-								
-							</div>
-						</div>
-
-						<div class="col-md-2 col-sm-6">
-							<div class="single-client">
-								<div class="single-client-img">
-									<div class="client-img">
-										<img class="img-responsive" src="img/service3.png" alt="">
-									</div>
-								</div>
-								
-							</div>
-						</div>
-
-						<div class="col-md-2 col-sm-6">
-							<div class="single-client">
-								<div class="single-client-img-img">
-									<div class="client-img">
-										<img class="img-responsive" src="img/service4.png" alt="">
-									</div>
-								</div>
-								
-							</div>
-						</div>
-
-						<div class="col-md-2 col-sm-6">
-							<div class="single-client">
-								<div class="single-client-img">
-									<div class="client-img">
-										<img class="img-responsive" src="img/service5.png" alt="">
-									</div>
-								</div>
-								
-							</div>
-						</div>
-
-						<div class="col-md-2 col-sm-6">
-							<div class="single-client">
-								<div class="single-client-img">
-									<div class="client-img">
-										<img class="img-responsive" src="img/service6.png" alt="">
-									</div>
-								</div>
-								
-							</div>
-						</div>						
-						</marquee>
-						-->
+	
 
 						<div class="panel-body">
        	 			<marquee DIRECTION="right" style="background:url(ImgMarquee/Canigou.jpg); color:#B20;">

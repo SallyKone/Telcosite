@@ -18,6 +18,7 @@ class Visites extends Migration
             $table->string('ip');
             $table->string('page');
             $table->timestamps();
+            
         });
     }
 
