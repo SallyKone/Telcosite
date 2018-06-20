@@ -15,6 +15,15 @@ h1, h2{
 	font-weight: bold;
 	font-size: 26px;
 }
+#monfooters{
+	width: 100%;
+	margin-left:0;
+	margin-right: 0;
+	background-color: black;
+}
+#monfooters div div p{
+	width: 100%;
+}
 
 
 /*header area*/
@@ -787,7 +796,7 @@ responsive area
 		height: 1050px;
 	}
 	.contact-caption {
-	 margin-top: 110px;
+	 margin-top: 189px;
 	}
 }
 

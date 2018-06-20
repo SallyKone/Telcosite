@@ -10,13 +10,15 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+use App\Mail\VisiteursMessagesCreated;
 
 Route::name('index_path')->get('/', 'HomeController@home');
 Route::name('realisation_path')->get('/realisation', 'RealisationController@realisation');
 
 Route::post('users', 'UsersController@postUsers');
+Route::post('/contact',['uses'=>'VisiteursController@envoiMail','as'=>'saveUtilisateurs']);
 
-Route::post('/saveVisiteurs',['uses'=>'visiteursController@save','as'=>'saveUtilisateurs']);
+/*Route::post('/saveVisiteurs',['uses'=>'visiteursController@save','as'=>'saveUtilisateurs']);*/
 
 
 

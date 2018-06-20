@@ -1,6 +1,9 @@
 <?php 
 namespace App\Http\Controllers;
  use Illuminate\Http\Request;
+ use App\Mail\VisiteursMessagesCreated;
+ use Illuminate\Support\Facades\Mail;
+use App\Http\Requests\VisiteursRequest;
 
 
 use App\visiteurs;
@@ -9,7 +12,17 @@ use App\visiteurs;
 class visiteursController extends Controller
 {
 
-	public function save(Request $request){
+	public function envoiMail(Request $request)
+    {
+    	
+    	$Mailable = new VisiteursMessagesCreated($request->nom, $request->email, $request->phone, $request->msg);
+    	Mail::to($request->email)->send($Mailable);
+
+    	return view('index');
+        
+    }
+
+	/*public function save(Request $request){
 		$visiteurs = new visiteurs;
 		$visiteurs->NomVisiteurs = $request->nom;
 		$visiteurs->EmailVisiteurs = $request->email;
@@ -23,7 +36,8 @@ class visiteursController extends Controller
 		}else{
 			return redirect()->back()->withError("Une erreur est parvenue, veuillez recommencer");
 		}
-	}
+	}*/
+
 
 
 }

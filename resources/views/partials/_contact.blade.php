@@ -1,4 +1,5 @@
 <!-- contact section starts here -->
+
 			<section class="contact">
 				<div class="container">
 					<div class="row">
@@ -6,7 +7,7 @@
 								<div class="contact-heading text-center">
 									<h2>Contactez-Nous</h2>
 								</div>
-								@if(session('success')) 
+								<!-- @if(session('success')) 
 								{{-- ====================================================================================== --}}
 								
 									<div class="alert alert-success"> 
@@ -20,7 +21,7 @@
 										{{ session('error') }} 
 									</div> 
 								@endif 
-								{{-- ====================================================================================== --}}
+								{{-- ====================================================================================== --}} -->
 								<div class="col-md-5 contact-info text-left">
 									<h3>Contact</h3>
 									<div class="info-detail">
@@ -44,41 +45,16 @@
 								<input  name="nom" type="text" placeholder="Nom" required>
 								<input name="email" type="email" placeholder="Email" required>
 								<input name="phone" type="text" placeholder="Téléphone:" required>
-								<textarea  name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea required>
+								<textarea  name="msg" id="message" cols="30" rows="10" placeholder="Message"></textarea required>
 								<input class="submit-btn" type="submit" value="Envoyer">
 									</form>
 					
 								</div>
 
-<div id="customPopup">
-     <h3>Titre du popup</h3>
-     <p>Message du popup !</p>
-     <p> </p>
-     <input type="button" value="Ok" onclick="hidePopup();">
-</div>
-
 							</div>
 					</div>
 				</div>
 
-<style type="text/css">
-	 #customPopup 
-{
-     position: fixed;
-     display: none;
-     left: 50%;
-     top: 50%;
-     z-index: 2000;
-     padding: 20px;
-     width: 560px;
-     background-color: #EEEEEE;
-     font-size: 12px;
-     line-height: 16px;
-     color: #202020;
-     border : 3px outset #555555;
-}
-
-</style>
 			</section><!-- end of contact section -->
 
 
