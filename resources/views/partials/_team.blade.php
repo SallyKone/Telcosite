@@ -17,7 +17,7 @@
 							<div class="person-detail">
 								<div class="arrow-bottom"></div>
 								<h3>Mr. YOUIN</h3>
-								<p>Ivoirien(ingénieur électronicien), 20ans d'experience dont 18 ans dans la téléphonie mobile via IVOIRIS, ORANGE et GLO MOBILE Nigeria
+								<p>Ivoirien (ingénieur électronicien), 20ans d'expérience dont 18 ans dans la téléphonie mobile via IVOIRIS, ORANGE et GLO MOBILE Nigeria
 								</p>
 							</div>
 						
@@ -28,7 +28,8 @@
 							<div class="person-detail">
 								<div class="arrow-top"></div>
 								<h3>Mr. KOUENON</h3>
-								<p>Ivoirien(ingénieur ESCA) 28 ans d'experience dans la gestion d'entreprise </p>
+								<p>Ivoirien (ingénieur ESCA) 28 ans d'expériences dans la gestion d'entreprise </p>
+								<br/>
 							</div>
 							<div class="person">
 								<img class="img-responsive" src="img/item2.jpg" alt="member-2">
@@ -41,7 +42,7 @@
 							<div class="person-detail">
 								<div class="arrow-bottom"></div>
 								<h3>Mr. VIDELOUP</h3>
-								<p>Français (ingénieur economiste), 20ans d'experience, expert dans la recherche et le developpement de nouveaux marchés.</p>
+								<p>Français (ingénieur économiste), 20ans d'expériences, expert dans la recherche et le développement de nouveaux marchés.</p>
 							</div>
 						</div>
 
@@ -51,7 +52,7 @@
 							<div class="person-detail">
 								<div class="arrow-top"></div>
 								<h3>Mr. GMONROU</h3>
-								<p>Ivoirien (ingénieur en marketing), 4 ans d'experience, Responsable marketing et publicité et de l'entreprise </p>
+								<p>Ivoirien (ingénieur en marketing), 4 ans d'expériences, Responsable marketing et publicité et de l'entreprise </p>
 							</div>
 							<div class="person">
 								<img class="img-responsive" src="img/item5.jpg" alt="member-2">
@@ -66,7 +67,8 @@
 							<div class="person-detail">
 								<div class="arrow-bottom"></div>
 								<h3>Mlle. KONE</h3>
-								<p>Ivoirienne (Technicien Superieur, Développeur d'application), un ans d'experience, Développeur web et mobile </p>
+								<p>Ivoirienne (Technicien Supérieur, Développeur d'application), un an d'expérience, Développeur web et mobile </p>
+								<br/>
 							</div>
 							
 

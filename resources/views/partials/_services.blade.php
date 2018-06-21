@@ -4,7 +4,7 @@
 				<div class="container">
 					<div class="row">
 						<h2>Nos services</h2>
-						<div class="offrir"><h4>Notre mission est de fournir aux opérateurs de téléphonie mobile un service de qualité qui intervient dans le domaine des télécommunications, précisement dans le déploiement, la maintenance, l'ingénierie l'optimisation des réseaux mobiles et le développement d'application web et mobile</h4></div>
+						<div class="offrir"><h4>Notre mission est de fournir aux opérateurs de téléphonie mobile un service de qualité qui intervient dans le domaine des télécommunications,  précisément dans le déploiement, la maintenance, l'ingénierie l'optimisation des réseaux mobiles et le développement d'application web et mobile</h4></div>
 
 						<!-- <div class="col-md-3 col-sm-6">
 							<div class="single-service">

@@ -3,7 +3,7 @@
 				<div class="container">
 					<div class="row">
 						<h2>A propos de nous</h2>
-					<div class="presentation">	<h4><strong> TELCO </strong> Sarl est une société incorporée en cote d'ivoire qui intervient dans le domaine des télécommunications. Précisement dans le déploiement, la maintenance, l'ingenierie et l'optimisation des reseaux mobiles. Notre mission est de fournir aux opérateurs de téléphonie mobiles un service de qualité dans le domaine du déploiement, la maintenance, les opérations, les SAV, l'ingénierie, les conseils et expertises qui leur permettront de maintenir les niveaux de qualité.</h4></div>
+					<div class="presentation">	<h4><strong> TELCO </strong> Sarl est une société enregistrée en côte d'ivoire qui intervient dans le domaine des télécommunications. Précisément dans le déploiement, la maintenance, l'ingénierie et l'optimisation des réseaux mobiles. Notre mission est de fournir aux opérateurs de téléphonie mobiles un service de qualité dans le domaine du déploiement, la maintenance, les opérations, les SAV, l'ingénierie, les conseils et expertises qui leur permettront de maintenir les niveaux de qualité.</h4></div>
 
 						<div class="col-md-4 col-sm-6">
 							<div class="single-about-detail clearfix">
@@ -18,7 +18,7 @@
 									</div>
 
 									<h3>Intervention</h3>
-									<p>TELCO offre des services en consulting dans les domaines de la téléphonie mobile,de la maintenance et de l'intégration de solutions en proposant des solutions logicielles sur mesure.</p>
+									<p>TELCO offre des services en consulting dans les domaines de la téléphonie mobile, de la maintenance et de l'intégration de solutions en proposant des solutions logicielles sur mesure.</p>
 								</div>
 							</div>
 						</div>
@@ -35,7 +35,7 @@
 									</div>
 
 									<h3>Réseaux et télécoms</h3>
-									<p>Grace à sa logistique fortement garnie d'équipements de tailles, TELCO peut éffectuer tous travaux de télécoms. A cela s'ajoute la qualité et le professionalisme de son personnel. </p>
+									<p>Grace à sa logistique fortement garnie d'équipements de tailles, TELCO peut effectuer tous travaux de télécoms. A cela s'ajoute la qualité et le professionnalisme de son personnel. </p>
 								</div>
 							</div>
 						</div>
@@ -53,7 +53,7 @@
 									</div>
 
 									<h3>Une équipe dynamique</h3>
-									<p>TELCO doit sa force et son éfficacité à son équipe composée d'ingenieurs et techniciens supérieurs hautement qualifiés qui disposent de beaucoup d'années d'expériences et ayant fait leurs preuves.</p>
+									<p>TELCO doit sa force et son efficacité à son équipe composée d'ingénieurs et techniciens supérieurs hautement qualifiés qui disposent de beaucoup d'années d'expériences et ayant fait leurs preuves.</p>
 								</div>
 							</div>
 						</div>
