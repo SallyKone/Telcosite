@@ -31,7 +31,7 @@
 					        <li><a class="menu" href="#team">Notre Equipe</a></li>
 					        <li><a class="menu" href="#realisation">Réalisations</a></li>
 					        <li><a class="menu" href="#client"> Client</a></li>
-					        <li><a class="menu" href="#contact"> contact</a></li>
+					        <li><a class="menu" href="#contact"> Contact</a></li>
 					      </ul>
 					    </div><!-- /navbar-collapse -->
 					  </div><!-- / .container-fluid -->

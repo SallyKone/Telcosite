@@ -4,7 +4,7 @@
         <div class="container">
           <div class="row">
             <h2 >Nos réalisations</h2>
-            <div class="realiser"> <h4> <strong> Telco </strong> est aussi implantée au Togo avec TELCO Sarl TOGO et au Nigeria avec TELCO Nigeria Limited. Nous avons donc réalisé des travaux dans ces différents pays, dans lesquels nous avons eu la satisfaction de nos clients</h4></div>
+            <div class="realiser"> <h4> <strong> Telco </strong> est aussi implantée au Togo avec TELCO Sarl TOGO et au Nigeria avec TELCO Nigeria Limited. Nous avons réalisé des travaux dans ces différents pays, dans lesquels nous avons eu la satisfaction de nos clients</h4></div>
 
             <div class="col-md-4 col-sm-6">
             <div class="panel panel-primary">
@@ -45,7 +45,7 @@
                               <h4> 
                                     Contrat de SAV avec Orange et MTN pour le service mon incroyable anniversaire <br> 
 
-                                    Contrat avec l'ARTCI (Autorité de Régulation des Télécommunications de Côte D'Ivoire): Campagne d'audit de la qualité de services des réseaux de téléphonie mobile en CI 
+                                    Contrat avec l'ARTCI (Autorité de Régulation des Télécommunications de Côte D'Ivoire): Campagne d'audit de la qualité de service des réseaux de téléphonie mobile en CI 
                                     
                               </h4>
                              </div>

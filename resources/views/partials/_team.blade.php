@@ -51,8 +51,8 @@
 
 							<div class="person-detail">
 								<div class="arrow-top"></div>
-								<h3>Mr. GMONROU</h3>
-								<p>Ivoirien (ingénieur en marketing), 4 ans d'expériences, Responsable marketing et publicité et de l'entreprise </p>
+								<h3>Mr. GNONROU</h3>
+								<p>Ivoirien (Master en marketing et management ), 4 ans d'expériences, Responsable marketing et publicité et de l'entreprise </p>
 							</div>
 							<div class="person">
 								<img class="img-responsive" src="img/item5.jpg" alt="member-2">

@@ -30,7 +30,7 @@
 										</ul>
 										<ul><li><i class="fa fa-phone"></i><span>Téléphone:</span> (+225) 79 37
 										66 37</li></ul>
-										<ul><li><i class="fa fa-fax"></i><span>Fixe:</span> (+225) 22 44 34 24</li></ul>
+										<ul><li><i class="fa fa-fax"></i><span>Fixe:</span> (+225) 22 46 72 66</li></ul>
 										<ul><li><i class="fa fa-envelope"></i><span>Email:</span> youin.telco@gmail.com</li></ul>
 									</div>
 								</div>
