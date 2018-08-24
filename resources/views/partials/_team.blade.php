@@ -6,7 +6,7 @@
 						<div class="team-heading text-center">
 							<h2>Notre Equipe</h2>
 
-							<div class="equipe"><h4>Nous disposons de plusieurs techniciens et de cinq ingénieurs ayant les capacités techniques et professionnelles. Le nombre peut croitre avec des agents temporaires de qualité en fonction des offres a exécuter</h4></div>
+							<div class="equipe"><h4>Nous disposons de plusieurs techniciens et de cinq ingénieurs ayant les capacités techniques et professionnelles. Le nombre peut croitre avec des agents temporaires de qualité en fonction des offres à exécuter</h4></div>
 						</div>
 
 						<div class="col-md-2 col-md-offset-1 single-member col-sm-4">
@@ -30,6 +30,8 @@
 								<h3>Mr. KOUENON</h3>
 								<p>Ivoirien (ingénieur ESCA) 28 ans d'expériences dans la gestion d'entreprise </p>
 								<br/>
+								<br/>
+
 							</div>
 							<div class="person">
 								<img class="img-responsive" src="img/item2.jpg" alt="member-2">
