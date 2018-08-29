@@ -4,7 +4,7 @@
         <div class="container">
           <div class="row">
             <h2 >Nos réalisations</h2>
-            <div class="realiser"> <h4> <strong> Telco </strong> est aussi implantée au Togo avec TELCO Sarl TOGO et au Nigeria avec TELCO Nigeria Limited. Nous avons réalisé des travaux dans ces différents pays, dans lesquels nous avons eu la satisfaction de nos clients</h4></div>
+            <div class="realiser"> <h4> <strong> TELCO </strong> est aussi implantée au Togo avec TELCO Sarl TOGO et au Nigeria avec TELCO Nigeria Limited. Nous avons réalisé des travaux dans ces différents pays, dans lesquels nous avons eu la satisfaction de nos clients</h4></div>
 
             <div class="col-md-4 col-sm-6">
             <div class="panel panel-primary">
@@ -25,7 +25,7 @@
 
           <div class="col-md-4 col-sm-6">
             <div class="panel panel-primary">
-                       <div class="panel-heading"><h4><center>NIGERIA</center> </h4></div>
+                       <div class="panel-heading"><h4><center>TELCO NIGERIA LIMITED</center> </h4></div>
                           <div class="panel-body" class="person-detail">
                             <h4>
                             Déploiement de la 3G à OGUN State pour Glo Nigeria 
@@ -42,7 +42,7 @@
           </div> 
                      <div class="col-md-4 col-sm-6">
             <div class="panel panel-primary">
-                             <div class="panel-heading"><h4><center>COTE D'IVOIRE</center> </h4></div>
+                             <div class="panel-heading"><h4><center>TELCO COTE D'IVOIRE</center> </h4></div>
                              <div class="panel-body">
                               <h4> 
                                     Contrat de SAV avec Orange et MTN pour le service mon incroyable anniversaire <br> 
