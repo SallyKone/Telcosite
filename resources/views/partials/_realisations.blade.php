@@ -47,7 +47,7 @@
                               <h4> 
                                     Contrat de SAV avec Orange et MTN pour le service mon incroyable anniversaire <br> 
 
-                                    Contrat avec l'ARTCI (Autorité de Régulation des Télécommunications de Côte D'Ivoire): Drive Test de couverture et de la qualité de service des réseaux de téléphonie mobile en CI 
+                                    Contrat avec l'ARTCI (Autorité de Régulation des Télécommunications de Côte D'Ivoire): Drive Test de couverture et de Benchmark (QoS et QoE ) des réseaux de téléphonie mobile en CI 
                                  <br/><br/>   
                               </h4>
                              </div>
