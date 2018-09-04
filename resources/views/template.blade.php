@@ -33,7 +33,7 @@
 	 					<img class="img1" src="img/service4.png">
 	 					<img class="img1" src="img/service5.png">
 	 					<img class="img1" src="img/service6.png">
-	 					<img class="img1" src="img/ARTCI.png">
+	 					<!-- <img class="img1" src="img/ARTCI.png"> -->
             </marquee>
 			</div>
 		</div>
