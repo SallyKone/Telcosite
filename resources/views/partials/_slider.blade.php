@@ -9,7 +9,7 @@
 					            <div class="item active">
 					            	<img src="img/slide-one.jpg" alt="">
 					                <div class="carousel-caption">
-				               			<h1>Intervension</h1>
+				               			<h1>Intervention</h1>
 				               			<p>consulting service</p>
 				               			<!--<button>en savoir plus</button>-->
 					                </div>
